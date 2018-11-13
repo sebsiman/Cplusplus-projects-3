@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1539197145 source:c:\032_cipher\main.cpp
+	<iostream>
+	<fstream>
+
+1539197145 source:s:\032_cipher\main.cpp
+	<iostream>
+	<fstream>
+

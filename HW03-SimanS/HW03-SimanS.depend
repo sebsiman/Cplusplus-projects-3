@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1539787620 source:s:\hw03-simans\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<stdlib.h>
+
